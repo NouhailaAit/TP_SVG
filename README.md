@@ -1,5 +1,9 @@
 # TP_SVG
 **_TP de SVG_**
+Introduction :
+Le format de fichier SVG  est le format de dessin vectoriel supporté par le logiciel MediaWiki, moteur de la Wikipédia. Il est basé sur XML et permet la création d’images sous forme de graphiques vectoriels (quelques exemples). Son utilisation est fortement recommandée pour toute création de schémas, diagrammes, cartes, icônes ou signalétiques...
+
+
 **Exercice 1 :** Coeur
 Capture de l'exécution :
 ![image](https://user-images.githubusercontent.com/46229189/53838547-44e04d80-3f8d-11e9-8f9c-a2d6d666abc2.png)
